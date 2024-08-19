@@ -12,3 +12,15 @@ Composite materials are artificially created materials composed of several other
   - model.h5
 * notebook - jupyter notebook with data analysis 
 * program.py - desktop application
+
+# How to get started 
+1. Download the repository
+2. Go to the root directory of the repository
+3. Type the command:
+```
+pip install -r requirements.txt
+```
+4. Run the application with the command:
+```
+python program.py
+```
